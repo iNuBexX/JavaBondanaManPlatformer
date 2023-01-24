@@ -7,7 +7,7 @@ this here implements the three thirds architecture MVC
 **Controllers**:They hold the basic _game logic_ from inputs interception ,movement application , score calculation , game start and finish, time counter logic and lives update  
 **View**: The 2D sprites which were made using my humble and modest skills in photoshop 
 
-####	foot notes:
+##	foot notes:
 i would like to comment on how easy it is to make a world only by changing the world.java class containing 
 a sequence of symbols each representing a specific game tile
 for exmp here is lvl 1:
