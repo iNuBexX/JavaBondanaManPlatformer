@@ -1,0 +1,34 @@
+.root{
+ 		-fx-background-image:url("profile.jpg");
+    	-fx-background-size:100% 100%;
+    	
+    
+  
+}
+.button {
+    -fx-cursor: pointer;
+    -fx-background: #44c4e7;
+    -fx-width: 100%;
+
+    -fx-border: 0;
+    -fx-color: #ffff;
+    -fx-font-family: "Roboto";
+    -fx-font-size: 14px;
+    -fx-font-weight: 400;
+
+    }
+
+#choice
+{
+	-fx-background: green;
+	
+	 -fx-background-size:100% 100%;
+}
+#info
+{
+	-fx-color: blue;
+	-fx-font-size: 14px;
+	-fx-font-weight: bold;
+}
+
+  
