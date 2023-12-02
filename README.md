@@ -2,8 +2,8 @@
 # JavaBondanaManPlatformer
 i was tasked to create a desktop app using javafx so ofc i turned it into a game engine 
 ## Project description  
-A super mario cheap clone XD ,clears throat , a video game where the objective is to make the carachter reach the end of thebos without dying by colliding with enemies or running out of time 
-the last level requires that you kill a boos before the game finishing tile appears which is needed to finish the level 
+A super mario cheap clone XD ,clears throat , a video game where the objective is to make the carachter reach the end of the map without dying by colliding with enemies or running out of time 
+the last level requires that you kill a boss before the game finishing tile appears which is needed to finish the level 
 to kill the boss hop on his head for a -1 life (careful not to touch the face)
 ## Design pattern
 this here implements the three thirds architecture MVC 
